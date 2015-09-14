@@ -238,7 +238,7 @@ public class Tienda_DB
                       
                     case 6: //Ganancias
                         System.out.println("~~~~~~~~~~~~~~~~~ Ganancias ~~~~~~~~~~~~~~~~~");                                             
-                        
+                        System.out.println("Not yet");
                        
                         break;
 
